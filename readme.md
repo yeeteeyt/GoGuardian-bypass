@@ -5,3 +5,6 @@ https://user-images.githubusercontent.com/77510164/197804712-1737c1c5-6eb7-45d9-
 
 How it works:
 Prevents goguardian and most other extensions from closing a page and redirecting to the block page.
+
+
+Footnote: This exploit is unpatchable by google, as it doesn't interfere with them. The only way to block this exploit would be to disable bookmarklets/task manager (working on a workaround)

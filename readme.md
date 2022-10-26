@@ -8,3 +8,4 @@ Prevents goguardian and most other extensions from closing a page and redirectin
 
 
 Footnote: This exploit is unpatchable by google, as it doesn't interfere with them. The only way to block this exploit would be to disable bookmarklets/task manager (working on a workaround)
+edit: I have a temporary fix which is to sign out and back in, but I don't know if bookmarklets will stay and it is very tedious
